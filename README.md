@@ -19,3 +19,12 @@
 ### SQL query 3
 
 <img width="1240" height="1200" alt="orders_totaling more than 500" src="https://github.com/user-attachments/assets/0a806311-230b-4c3e-bd15-fa0a3887639a" />
+
+### SQL query 4
+<img width="856" height="78" alt="like query" src="https://github.com/user-attachments/assets/b77115dd-5769-45df-85ed-6122c24a86b0" />
+
+### SQL query 5
+
+<img width="706" height="410" alt="non-purchased query" src="https://github.com/user-attachments/assets/13d25f38-7aeb-46b3-ac17-8ef3f48b24b9" />
+
+
