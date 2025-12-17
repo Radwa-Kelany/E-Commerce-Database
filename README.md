@@ -28,3 +28,18 @@
 <img width="706" height="410" alt="non-purchased query" src="https://github.com/user-attachments/assets/13d25f38-7aeb-46b3-ac17-8ef3f48b24b9" />
 
 
+
+### Full text-search
+<img width="637" height="228" alt="full-text-search" src="https://github.com/user-attachments/assets/6e1cebb4-d40b-472c-a439-6537c61000dc" />
+
+### Trigger Query
+
+<img width="742" height="627" alt="trigger query" src="https://github.com/user-attachments/assets/2b5a8f20-b837-47aa-89f1-4fc4092b3021" />
+
+### Field update lock
+<img width="358" height="208" alt="field-lock" src="https://github.com/user-attachments/assets/8bd86abf-6a04-4913-8377-99348dd715b2" />
+
+### Row update lock
+<img width="285" height="208" alt="row-lock" src="https://github.com/user-attachments/assets/322db766-1363-4bfe-be74-840c0f931f85" />
+
+
